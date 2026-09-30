@@ -1,0 +1,25 @@
+{
+  "date": "today",
+  "commitments": [
+    {
+      "id": "leetcode",
+      "text": "Solve 2 LeetCode problems properly (cold attempt + review), not just look at solutions.",
+      "status": "unknown"
+    },
+    {
+      "id": "hackathon",
+      "text": "Finish and submit the hackathon project before the deadline.",
+      "status": "unknown"
+    },
+    {
+      "id": "business",
+      "text": "Spend the main work block on the business/startup task (e.g. Indenigma Coders or Robotics).",
+      "status": "unknown"
+    },
+    {
+      "id": "gym_or_health",
+      "text": "Hit the daily step/food target discussed this morning.",
+      "status": "unknown"
+    }
+  ]
+}
